@@ -10,23 +10,9 @@ Bienvenue sur **MineToolServer**, une application console conçue pour simplifie
 - **Support de Plusieurs Types de Serveurs**  
   Créez facilement des serveurs **Vanilla**, **Mohist**, **Fabric**, et bien plus encore !
 
-- **Interface Intuitive**  
-  Une interface utilisateur simple et conviviale pour une gestion facile de vos serveurs.
-
-- **Personnalisation Avancée**  
-  Ajustez les paramètres du serveur selon vos besoins spécifiques sans effort.
-
 ## 🛠️ En cours de développement
 
 Ce projet est en cours de développement. Nous travaillons activement à l'amélioration de l'application et à l'ajout de nouvelles fonctionnalités. **Restez à l'écoute** pour les mises à jour futures !
-
----
-
-### 💡 Comment contribuer ?
-
-Nous sommes ouverts aux contributions ! Si vous souhaitez nous aider à développer MineToolServer, consultez le fichier [CONTRIBUTING.md](./CONTRIBUTING.md) pour plus de détails.
-
----
 
 ### 📜 Licence
 
