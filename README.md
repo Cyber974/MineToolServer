@@ -1,6 +1,6 @@
 # MineToolServer
 
-Bienvenue sur **MineToolServer**, une application console conçue pour simplifier la création et la gestion de serveurs Minecraft. Que vous soyez novice ou expert, MineToolServer vous permet de créer des serveurs en un clin d'œil, sans les complications habituelles.
+Bienvenue sur **MineToolServer**, une application console conçue pour simplifier la création et la gestion de serveurs Minecraft. Que vous soyez novice ou expert, MineToolServer vous permet de créer des serveurs sans les complications habituelles.
 
 ## 🚀 Fonctionnalités
 
@@ -12,7 +12,7 @@ Bienvenue sur **MineToolServer**, une application console conçue pour simplifie
 
 ## 🛠️ En cours de développement
 
-Ce projet est en cours de développement. Nous travaillons activement à l'amélioration de l'application et à l'ajout de nouvelles fonctionnalités. **Restez à l'écoute** pour les mises à jour futures !
+Ce projet est en cours de développement. Nous travaillons actuellement à l'amélioration de l'application et à l'ajout de nouvelles fonctionnalités. **Restez à l'écoute** pour les mises à jour futures !
 
 ### 📜 Licence
 
