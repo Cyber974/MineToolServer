@@ -8,7 +8,7 @@ Bienvenue sur **MineToolServer**, une application console conçue pour simplifie
   Plus besoin de vous plonger dans des configurations complexes. MineToolServer automatise le processus pour vous.
 
 - **Support de Plusieurs Types de Serveurs**  
-  Créez facilement des serveurs **Vanilla**, **Paper**, **Fabric**, et bien plus encore !
+  Créez facilement des serveurs **Forge**, **Paper**, **Fabric**, et bien plus encore !
 
 ## 🛠️ En cours de développement
 
