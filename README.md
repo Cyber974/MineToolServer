@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="OOvfJ2o-TNVWXzFelvpH19kw_kqq4Rum8eO0WpNDxYc" />
+
 # MineToolServer
 ![logo_base1440](https://github.com/user-attachments/assets/4547e0b4-5075-44c1-accf-d6004f9d1859)
 
